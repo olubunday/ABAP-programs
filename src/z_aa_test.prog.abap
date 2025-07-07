@@ -4,3 +4,5 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT Z_AA_TEST.
+
+WRITE 'Welcome to ABAP Programming by Akinlowo Olumide'.
